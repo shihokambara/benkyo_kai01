@@ -9,4 +9,3 @@ class TekitouApp
       ]
   end
 end
-
